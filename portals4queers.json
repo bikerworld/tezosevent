@@ -1,0 +1,10 @@
+{
+  "title": "Portals 4 Queers",
+  "description": "Portals4Queers is the second act of incredible support and charity from a growing group of artists in the Tezos Community.  All artists involved will be posting their work with the hashtag #Portals4Queers. Find the art on Twitter, or click through the gallery below.<br />All proceeds from the sales of these NFTs will be donated to the Queer Museum of Digital Art (\"QMoDA\"). Half of the Tezos collected will go towards acquiring Tezos-based NFTs, and the other half will go towards the QMoDA community treasury.<br />Additionally, each artist will donate one edition of their NFT to the QMoDA Vault, where it will be permanently housed in a metaverse exhibition space.",
+  "force_platform": "bid",
+  "admins": ["MuseumOfQueer", "skygoodman4", "_noumenal", "0x3y3"],
+  "extra": {
+    "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vSU981aRmGX1Saavi2EKhNANR2cSoUfYqQVKcAKr1atTjpjpZ2iRI2nTLbSeKoF1PlNWDTjfSZZJQgn/pub?gid=0&single=true&output=csv",
+    "version": "v2"
+  }
+}
