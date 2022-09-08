@@ -1,0 +1,14 @@
+{
+  "title": "TEZOS4TEZOS",
+  "description": "Event starts Friday 6th May (12:00am JST) &bull; Ends Sunday 8th May (12:00am PST)<br />Mint 100 editions on the #tezos platform of your choice (don't forget to add the tag tezos4tezos at mint time, to be visible in this event page), and swap them for between 0.1 tez and 1 tez on May the 6th.<br />Discover new artists and buy other people's #tezos pieces during the #tezos4tezos event.",
+  "tags": ["tezos4tezos", "tezosfortezos"],
+  "preview": true,
+  "show_older": 6,
+  "start_time": "2022-05-05T15:00:00Z",
+  "end_time": "2022-05-09T07:00:00Z",
+  "admins": ["rblbab", "tery", "strtsomethingio", "orange", "cabline1"],
+  "extra": {
+    "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vTDVl1b1mhXTDrkbv7R9WGevDxdWlKidb8Q6RECH9yGeMCahZ4gfRKMlrYI_h8E4tCrkixNWZvJ2C--/pub?gid=0&single=true&output=csv",
+    "version": "v2"
+  }
+}
