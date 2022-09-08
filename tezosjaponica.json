@@ -1,0 +1,14 @@
+{
+  "title": "Tezos Japonica",
+  "description": "Japanese NFT Artist Network invites you to join our Tezos NFT Event #TezosJaponica from May 25th - 29th, 2022.<br />Anyone can create NFT art related to Japanese Culture -  Anime, Manga, Games, Geisha, Samurai, Food, Fashion, etc... The art can be about anything fitting the theme!<br />Participants can mint them on Tezos NFT marketplaces of their choice and tag <b>TezosJaponica</b> at mint time. Edition: 5-55 &bull; Price: 0.5-5 tez. &bull; No limit on submissions.",
+  "tags": ["TezosJaponica", "tezjaponica"],
+  "preview": true,
+  "show_older": 8,
+  "start_time": "2022-05-24T15:00:00Z",
+  "end_time": "2022-05-29T07:00:00Z",
+  "admins": ["TezosJaponica", "SarisaKojima"],
+  "extra": {
+    "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vQsFDtNJtakK2GtLuFeydGwQwAgbNTPVO_ZAmxy-l1iSQHvzq3puW_mGC1LZN2jJpikavDWNH4jdFoY/pub?gid=0&single=true&output=csv",
+    "version": "v2"
+  }
+}
