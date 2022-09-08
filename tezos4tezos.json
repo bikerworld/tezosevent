@@ -6,7 +6,6 @@
   "show_older": 6,
   "start_time": "2022-05-05T15:00:00Z",
   "end_time": "2022-05-09T07:00:00Z",
-  "admins": ["rblbab", "tery", "strtsomethingio", "orange", "cabline1"],
   "extra": {
     "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vTDVl1b1mhXTDrkbv7R9WGevDxdWlKidb8Q6RECH9yGeMCahZ4gfRKMlrYI_h8E4tCrkixNWZvJ2C--/pub?gid=0&single=true&output=csv",
     "version": "v2"
