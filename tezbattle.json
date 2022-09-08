@@ -1,0 +1,14 @@
+{
+  "title": "Battle of the Bands",
+  "description": "Battle of the Bands is a fun community event run by @Tez_Town to celebrate music from all over the world, no audio is required, art may be of any media, we will all swap (list, price) the art on June 22nd so the art may be promoted during <a href=\"https://NFT.NYC\" target=\"_blank\">NFT.NYC</a>. Please do not price or accept any offers until June 22! <br />To be seen in the event page, use the tag <b>tezbattle</b> at mint time.<br /><a href=\"https://discord.com/invite/kUqqW6DXfu\" target=\"_blank\">More info on @Tez_Town discord</a>.",
+  "tags": ["tezbattle", "tez_battle", "tez battle"],
+  "preview": true,
+  "show_older": 12,
+  "start_time": "2022-06-09T15:00:00Z",
+  "end_time": "2022-06-25T07:00:00Z",
+  "admins": ["rblbab", "strtsomethingio", "tery", "myknash", "DaedalusofCrete", "sonrefniocsid", "_xs"],
+  "extra": {
+    "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vTBZrbSPVLrLs5Rps8OGOupddSKwv_9m-i0JAeDwIuBy_0I2zTxEwpXP04Ut120nSEmJtDkKda_am2y/pub?gid=0&single=true&output=csv",
+    "version": "v2"
+  }
+}
