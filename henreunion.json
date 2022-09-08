@@ -1,10 +1,10 @@
 {
   "title": "HENReunion",
   "description": "What if we simulated H=N for a week-end!!<br />What made HEN feel like HEN was everybody being all together in one place right ?!?<br />So what if during the last weekend of september, all your favs were minting new NFTs on TEIA?",
-  "admins": ["rata_yonqui", "WeirdNFTArtist"],
-  "tags": ["rodellwarner"],
+  "tags": ["henreunion", "hen-reunion", "hen_reunion"],
   "preview": true,
   "show_older": 8,
   "start_time": "2022-09-29T12:00:00Z",
-  "end_time": "2022-10-03T09:00:00Z"
+  "end_time": "2022-10-03T09:00:00Z",
+  "admins": ["rodellwarner"]
 }
