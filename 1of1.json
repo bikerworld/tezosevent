@@ -1,0 +1,16 @@
+{
+  "title": "One of One",
+  "description": "<div id=\"floating\"><div style=\"display:block;float:left;margin-right:20px\"><img src=\"/images/oneofone.png\" alt=\"One of One\" style=\"height:175px;align:center\"></div><p style=\"min-with:300px\">1st July is the start of something big: <b>#1of1 season on Tezos</b><br>Time to change the landscape.<br>Mint Period now Closed.<br>Please see <a href=\"https://twitter.com/1of1xtz\" target=\"_blank\">@1of1xtz</a> for Galleries now Showcasing #1of1 Event Works, some Unsold Works Only</p></div>",
+  "tags": ["1of1", "oneofone", "1of1tez", "1of1tez", "1ofone"],
+  "preview": true,
+  "show_older": 8,
+  "english": true,
+  "editions": { "min": 1, "max": 1 },
+  "start_time": "2022-06-30T12:00:00Z",
+  "end_time": "2022-07-08T09:00:00Z",
+  "admins": ["1of1xtz"],
+  "extra": {
+    "version": "v3",
+    "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vTZcns56bWHTOpAT98YCkCSsSLe6kRweVwoonPhAPWUIWBKYbiPEOLWyY7ZNkEWlDx9a9gtVfB1BOJY/pub?gid=0&single=true&output=csv"
+  }
+}
