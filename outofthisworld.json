@@ -6,5 +6,9 @@
   "show_older": 8,
   "start_time": "2022-08-05T12:00:00Z",
   "end_time": "2022-08-21T09:00:00Z",
-  "admins": ["Tez_Town", "strtsomethingio", "Tery", "myknash", "DaedalusofCrete", "sonrefniocsid", "_xs"]
+  "admins": ["Tez_Town", "strtsomethingio", "Tery", "myknash", "DaedalusofCrete", "sonrefniocsid", "_xs"],
+  "extra": {
+    "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vT9lhaN6hHaTyZxAcGov9hBfC47Cb_rZxZvKJRWbb_EsKs7NMv_Lord-9zAqIdmUujHp5dGHZEv3cl8/pub?gid=0&single=true&output=csv", 
+    "version": "v3"
+  }
 }
