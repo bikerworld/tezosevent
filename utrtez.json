@@ -5,5 +5,9 @@
   "show_older": 8,
   "start_time": "2022-09-30T12:00:00Z",
   "end_time": "2022-10-08T09:00:00Z",
-  "admins": ["UTRTEZ", "XCOLLABZ"]
+  "admins": ["UTRTEZ", "XCOLLABZ"],
+  "extra": {
+    "version": "v3",
+    "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vTvl5J-kLy8QfDHaxQmZXqTI6hvWQLNwccObTH87PU0YzZn2pWZvCtYmY9swlz1PgpeK9u-MYK3T3tT/pub?gid=0&single=true&output=csv"
+  }
 }
