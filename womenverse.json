@@ -5,5 +5,6 @@
   "show_older": 8,
   "start_time": "2022-09-18T12:00:00Z",
   "end_time": "2022-09-27T09:00:00Z",
+  "editions": { "min": 1, "max": 1, "fxhash": false },
   "admins": ["womenverse101"]
 }
