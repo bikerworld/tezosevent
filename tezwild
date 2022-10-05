@@ -1,0 +1,14 @@
+{
+  "title": "Call of the Wild",
+  "description": "THEME: Create an impactful NFT about endangered or threatened animals that makes people think about how they can be part of the solution. &bull; Mint tag : <b>TezWild</b>For more info, <a href=\"https://twitter.com/Tez_Town/status/1576263712625037317\" target=\"_blank\">read the announcement</a>.",
+  "tags": ["tezwild"],
+  "preview": true,
+  "show_older": 1,
+  "start_time": "2022-09-30T12:00:00Z",
+  "end_time": "2022-10-18T09:00:00Z",
+  "admins": ["Tez_Town", "rblbab", "strtsomethingio", "Tery", "myknash", "DaedalusofCrete", "orange"],
+  "extra": {
+    "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vQDd9hM6I7c1wsmfwUchGRnzgIpGmt1hgotCH41ImXRCwUFfKAvZCL_16vcPDjRdzyuwU-DIZ2jNz-C/pub?gid=0&single=true&output=csv",
+    "version": "v3"
+  }
+}
