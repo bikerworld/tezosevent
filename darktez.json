@@ -1,0 +1,17 @@
+
+{
+  "title": "Darktez",
+  "description": "Darktez is a Halloween event run by Photez.<br/>Photez are a community of photographers who mint on Tezos. With just over 600 members and 5 thematic collections under their belt, it was time for their first community wide event.<br/>Darktez is a dark, spooky and mysterious event for lensbased work. Minting begins on the 24th October and runs until Halloween - the 31st October. Thereafter, burning beings on the 1st November. Ensure to use the hashtag \"photez\" and \"darktez\" when minting and tweeting about your work! The requirements for the event are 130 editions for 1.3 XTZ. ",
+  "tags": [
+    "darktez"
+  ],
+  "preview": true,
+  "show_older": 3,
+  "start_time": "2022-10-23T12:00:00Z",
+  "end_time": "2022-11-01T09:00:00Z",
+  "admins": [
+    "boxio3",
+    "h4m4t0",
+    "photezNFTs"
+  ]
+}
