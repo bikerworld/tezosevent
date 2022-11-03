@@ -14,5 +14,9 @@
   "admins": [
     "fakewhale_xyz",
     "valuartdotcom"
-  ]
+  ],
+  "extra": {
+    "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vRMDG2BQgB7tZnrfMek7I4bcTDs1UzUpFWqe3z1Xb8qoMRYd7cNUaQkNN6tdSP354WYWr3EmdtHA1xZ/pub?gid=0&single=true&output=csv",
+    "version": "v3"
+  }
 }
