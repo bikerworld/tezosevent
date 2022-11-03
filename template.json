@@ -2,6 +2,7 @@
   "title": "",
   "description": "",
   "tags": [],
+  "mandatory_tag": "some tag that must always exist along other tags",
   "preview": true,
   "show_older": 7,
   "force_platform": "bid",
