@@ -5,6 +5,7 @@
   "tags": [
     "darktez"
   ],
+  "mandatory_tag": "photez",
   "preview": false,
   "show_older": 1,
   "start_time": "2022-10-23T12:00:00Z",
