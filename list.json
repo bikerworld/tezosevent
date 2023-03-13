@@ -1,5 +1,5 @@
 [
-  { "tag": "campcreme", title: "Camp Creme" },
+  { "tag": "campcreme", "title": "Camp Creme" },
   { "key": "tezquakeaid", "title": "TezQuakeAid" },
   { "key": "riphen", "title": "RIPHen" },
   { "key": "darktez", "title": "Darktez" },
