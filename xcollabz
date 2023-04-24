@@ -1,0 +1,11 @@
+
+{
+  "title": "XCollabz Tool",
+  "description": "Curation tool",
+  "tags": [],
+  "preview": true,
+  "extra": {
+    "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vTZqd4e4xEXCMDWQJWg1CCq3XuAcQ8Yl9MMptgtUStghfye0XB4h9BhuuOkHBYBfhOCo3pJiQTaiAaw/pub?gid=0&single=true&output=csv",
+    "version": "v3"
+  }
+}
