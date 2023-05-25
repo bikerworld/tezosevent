@@ -1,19 +1,70 @@
 [
-  { "tag": "tezospride23", "title": "Tezos Pride 2023" },
-  { "tag": "campcreme", "title": "Camp Creme" },
-  { "key": "tezquakeaid", "title": "TezQuakeAid" },
-  { "key": "riphen", "title": "RIPHen" },
-  { "key": "darktez", "title": "Darktez" },
-  { "key": "utrtez", "title": "Under the Radar" },
-  { "key": "tezwild", "title": "Call of the Wild" },
-  { "key": "henreunion", "title": "HENReunion" },
-  { "key": "womenverse", "title": "WomenVerse" },
-  { "key": "tezrats", "title": "TezRats" },
-  { "key": "tezosfilipinos", "title": "Tezos Filipinos" },
-  { "key": "outofthisworld", "title": "Out of this World" },
-  { "key": "1of1", "title": "One of One" },
-  { "key": "tezbattle", "title": "Battle of the Bands" },
-  { "key": "tezospride", "title": "Tezos Pride" },
-  { "key": "high4tezos", "title": "High4Tezos" },
-  { "key": "aubjkt4aubjkt", "title": "Aubjkt4Aubjkt" }
+  {
+    "tag": "tezospride23",
+    "title": "Tezos Pride 2023"
+  },
+  {
+    "tag": "campcreme",
+    "title": "Camp Creme"
+  },
+  {
+    "key": "tezquakeaid",
+    "title": "TezQuakeAid"
+  },
+  {
+    "key": "riphen",
+    "title": "RIPHen"
+  },
+  {
+    "key": "darktez",
+    "title": "Darktez"
+  },
+  {
+    "key": "utrtez",
+    "title": "Under the Radar"
+  },
+  {
+    "key": "tezwild",
+    "title": "Call of the Wild"
+  },
+  {
+    "key": "henreunion",
+    "title": "HENReunion"
+  },
+  {
+    "key": "womenverse",
+    "title": "WomenVerse"
+  },
+  {
+    "key": "tezrats",
+    "title": "TezRats"
+  },
+  {
+    "key": "tezosfilipinos",
+    "title": "Tezos Filipinos"
+  },
+  {
+    "key": "outofthisworld",
+    "title": "Out of this World"
+  },
+  {
+    "key": "1of1",
+    "title": "One of One"
+  },
+  {
+    "key": "tezbattle",
+    "title": "Battle of the Bands"
+  },
+  {
+    "key": "tezospride",
+    "title": "Tezos Pride"
+  },
+  {
+    "key": "high4tezos",
+    "title": "High4Tezos"
+  },
+  {
+    "key": "aubjkt4aubjkt",
+    "title": "Aubjkt4Aubjkt"
+  }
 ]

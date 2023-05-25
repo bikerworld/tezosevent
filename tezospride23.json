@@ -6,13 +6,13 @@
     "tezos_pride",
     "tezospride23"
   ],
+  "preview": true,
+  "show_older": 7,
   "start_time": "2023-06-01T00:00:00Z",
   "end_time": "2023-07-01T07:00:00Z",
   "admins": [
     "malsheep56"
   ],
-  "preview": true,
-  "show_older": 7,
   "extra": {
     "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vQiThUOKImreZqOVBpLb8wyU_x3QDjJwE-JU1h65Y_Zzv2eeZZ7XkKVBvOwCxjD6SX9-fHoTJRQyIEU/pub?output=csv",
     "version": "v3"
