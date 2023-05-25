@@ -1,6 +1,14 @@
 [
   {
-    "tag": "tezospride23",
+    "key": "200tezos",
+    "title": "200Tezos"
+  },
+  {
+    "key": "bicycletez",
+    "title": "BicycleTEZ"
+  },
+  {
+    "key": "tezospride23",
     "title": "Tezos Pride 2023"
   },
   {
