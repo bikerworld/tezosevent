@@ -1,62 +1,77 @@
 [
   {
     "key": "200tezos",
+    "indexed": true,
     "title": "200Tezos"
   },
   {
     "key": "bicycletez",
+    "indexed": true,
     "title": "BicycleTEZ"
   },
   {
     "key": "tezospride23",
+    "indexed": true,
     "title": "Tezos Pride 2023"
   },
   {
     "tag": "campcreme",
+    "indexed": true,
     "title": "Camp Creme"
   },
   {
     "key": "tezquakeaid",
+    "indexed": true,
     "title": "TezQuakeAid"
   },
   {
     "key": "riphen",
+    "indexed": true,
     "title": "RIPHen"
   },
   {
     "key": "darktez",
+    "indexed": true,
     "title": "Darktez"
   },
   {
     "key": "utrtez",
+    "indexed": true,
     "title": "Under the Radar"
   },
   {
     "key": "tezwild",
+    "indexed": true,
     "title": "Call of the Wild"
   },
   {
     "key": "henreunion",
+    "indexed": true,
     "title": "HENReunion"
   },
   {
     "key": "womenverse",
+    "indexed": true,
     "title": "WomenVerse"
   },
   {
     "key": "tezrats",
+    "indexed": true,
     "title": "TezRats"
   },
   {
     "key": "tezospride",
+    "indexed": true,
     "title": "Tezos Pride 2022"
   },
   {
     "key": "1of1",
+    "indexed": true,
     "title": "One of One"
   },
   {
     "key": "aubjkt4aubjkt",
+    "indexed": true,
     "title": "Aubjkt4Aubjkt"
-  },
+  }
 ]
