@@ -61,7 +61,7 @@
   },
   {
     "key": "tezospride",
-    "indexed": true,
+    "indexed": false,
     "title": "Tezos Pride 2022"
   },
   {
