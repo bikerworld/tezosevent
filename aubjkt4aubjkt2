@@ -1,0 +1,10 @@
+{
+  "title": "AUBJKT4AUBJKT2",
+  "description": "The second edition of an artist trade event, where artists exchange aubergine minted artworks.",
+  "tags": ["aubjkt4aubjkt2", "aubergine"],
+  "skip_secondary": false,
+  "is_event": true,
+  "start_time": "2023-07-01T00:00:00Z",
+  "end_time": "2023-08-01T00:00:00Z",
+  "skip_warnings": true
+}
