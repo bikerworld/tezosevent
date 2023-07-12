@@ -1,0 +1,17 @@
+{
+  "title": "OpenTez",
+  "description": "OpenTez is the first Open Edition art exchange event. Mint an OpenEdition with a price of 3 tez (so no need to burn at the end, and you can set a limit of editions per wallet). Use the tag \"opentez\" at mint time, to be visible in the event page.",
+  "tags": [
+    "opentez",
+    "tezopen",
+    "open_tez"
+  ],
+  "preview": true,
+  "show_older": 7,
+  "start_time": "2023-07-14T00:00:00+1000",
+  "end_time": "2023-07-16T00:00:00-0800",
+  "admins": [
+    "sereneObscurity",
+    "BarbaraBezina"
+  ]
+}
