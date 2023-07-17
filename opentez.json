@@ -10,6 +10,12 @@
   "show_older": 7,
   "start_time": "2023-07-14T00:00:00+1000",
   "end_time": "2023-07-16T00:00:00-0800",
+  "tokens": [
+    {
+      "fa2_id": "KT1EN8BLRfZBM8dhi1wRbe9aTLtYzAbPf6VH",
+      "id": 1
+    }
+  ],
   "admins": [
     "sereneObscurity",
     "BarbaraBezina"
