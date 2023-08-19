@@ -1,7 +1,7 @@
 [
   {
     "key": "tezmauiaid",
-    "indexed": false,
+    "indexed": true,
     "title": "TezMauiAid"
   },
   {
