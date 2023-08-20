@@ -7,7 +7,8 @@
   ],
   "hide_secondary": true,
   "donation": [
-    "tz2TkUPsHRRVAT3t6tPEUPiH57uw4qFA7jyp"
+    "tz2TkUPsHRRVAT3t6tPEUPiH57uw4qFA7jyp",
+    min_donation: 47.5
   ],
   "start_time": "2023-08-18T12:00:00Z",
   "end_time": "2023-10-31T12:00:00Z",
