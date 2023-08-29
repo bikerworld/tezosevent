@@ -8,6 +8,9 @@
     "girlgangs"
   ],
   "show_older": 8,
+  "editions": {
+    "min": 25
+  },
   "preview": true,
   "start_time": "2023-09-01T00:00:00+1000",
   "end_time": "2023-09-04T00:00:00-0800",
