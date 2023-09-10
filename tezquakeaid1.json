@@ -1,12 +1,14 @@
 {
-  "title": "TezQuakeAid",
+  "title": "TezQuakeAid Syria/Turkey",
   "description": "The recent earthquakes in Turkey and Syria have caused immense devastation. In an attempt to support relief efforts, the Tezos community has set up donation opportunities to recognised, independent relief organisations. Artists and collectors can contribute through art sales and promotion of this fundraiser. Direct donations of XTZ are also possible.<br/>Check how you can contribute on the <a href='https://app.joyn.xyz/space/tez-quake-aid-ec7f1f650671' target='_blank'>TezQuakeAid website</a>.<br/>Artists, make sure to use TezQuakeAid tag at mint time and to redirect proceeds to the donation contract to be visible in this event page.",
   "tags": [
     "TezQuakeAid",
     "tezquake"
   ],
   "hide_secondary": true,
-  "donation": ["KT1X1jyohFrZyDYWvCPXw9KvWxk2VDwxyg2g"],
+  "donation": [
+    "KT1X1jyohFrZyDYWvCPXw9KvWxk2VDwxyg2g"
+  ],
   "start_time": "2023-02-01T12:00:00Z",
   "end_time": "2023-05-31T12:00:00Z",
   "start_donate": "2023-02-08T14:00:00Z",
