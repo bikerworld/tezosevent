@@ -1,10 +1,22 @@
 {
-  "title": "WOMENverse Anniversary",
-  "description": "Each artist create 1/1s (max 3) &bull; Theme: Women Empowerment<br/>Send your Pieces at the Anniversary Wallet : womenverseanniversary.tez",
-  "tags": ["womenverse101", "womenverse", "womanverse", "womenvers", "womenmuseumart"],
+  "title": "WOMENverse 2 year Anniversary",
+  "description": "Each artist create 1/1s &bull; Theme: Reimagine Yourself: Who Will You Be?<br/>Send your Pieces at the Anniversary Wallet : tz1LHCKuBV9Y5Z6YkLzot5adF4TuueoDh3EJ.<br/>The 1/1 piece will be auctioned in support of our mission & also will enter you to be curated in our upcoming World.",
+  "tags": [
+    "womenverse101",
+    "womenverse",
+    "womanverse",
+    "womenvers",
+    "womenmuseumart"
+  ],
   "show_older": 8,
   "start_time": "2022-09-18T12:00:00Z",
-  "end_time": "2022-11-01T09:00:00Z",
-  "editions": { "min": 1, "max": 1, "fxhash": false },
-  "admins": ["womenverse101"]
+  "end_time": "2022-10-01T09:00:00Z",
+  "editions": {
+    "min": 1,
+    "max": 1,
+    "fxhash": false
+  },
+  "admins": [
+    "womenverse101"
+  ]
 }
