@@ -9,6 +9,7 @@
   "donation": [
     "KT1RwXEP8Sj1UQDHPG4oEjRohBdzG2R7FCpA"
   ],
+  "min_donation": 47.5,
   "start_time": "2023-09-10T00:00:00+1000",
   "end_time": "2023-12-01T00:00:00-0800",
   "start_donate": "2023-09-10T00:00:00Z",
