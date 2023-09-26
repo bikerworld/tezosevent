@@ -14,5 +14,9 @@
   "start_time": "2023-09-10T00:00:00+1000",
   "end_time": "2023-12-01T00:00:00-0800",
   "start_donate": "2023-09-10T00:00:00Z",
-  "admins": []
+  "admins": [],
+  "extra": {
+    "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vQMRm7wiMon_edY_-6WSbMDx09zEtED6mlJMX8kPZaHukPxUe2cib5yWhL8jsSv3Dwv3jd3_Wrp1Ukj/pub?gid=0&single=true&output=csv",
+    "version": "v3"
+  }
 }
