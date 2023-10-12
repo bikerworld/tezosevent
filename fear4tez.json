@@ -1,14 +1,21 @@
 {
   "title": "Fear4Tez",
-  "description": "TEZOS COMMUNITY EVENTS is proud to present the 2nd Annual Friday the 13th Community Event - #FEAR4TEZ<br />We challenge you to give us a nightmare with your creepiest, scariest, and weirdest NFTs ever, filled with horrifying, superstitions, and bloody things (OR just be yourself, themes are fun but might not fit everyone). Full infos for artists to <a href=\"https://twitter.com/tezevents/status/1520055392486764544\" target=\"_blank\">participate to this event are here</a>.",
-  "tags": ["fear4tez", "fear4hen"],
+  "description": "TezTown is proud to present the 3nd Annual Friday the 13th Community Event - #FEAR4TEZ<br />Fear4Tez is all about the dark, scary and creepy side of art, humanity and life, but still meant to be fun, fun, fun!. Full infos for artists to <a href=\"https://twitter.com/Tez_Town/status/1712501933523587093\" target=\"_blank\">participate to this event are here</a>.<br/>Don't forget to use fear4tez tag at mint time to be visible here.",
+  "tags": [
+    "fear4tez",
+    "fear4hen"
+  ],
   "preview": true,
-  "show_older": 12,
-  "start_time": "2022-05-11T15:00:00Z",
-  "end_time": "2022-05-17T07:00:00Z",
-  "admins": ["rblbab", "tery", "strtsomethingio", "orange", "cabline1"],
+  "show_older": 7,
+  "start_time": "2023-10-13T00:00:00+1000",
+  "end_time": "2023-11-01T00:00:00-0800",
+  "admins": [
+    "Tez_Town",
+    "rblbab",
+    "MykNash"
+  ],
   "extra": {
-    "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vRv5ejN9Ti2MZpYRU34XwV2c0ldkx-8wwF_lJIio1JK2YQ4cR4kZJwjnKoT2fsYNTZ1bpunFmYjGEhX/pub?gid=0&single=true&output=csv",
-    "version": "v2"
+    "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vTiutXF9qbS5wTtHHJewixi8C5tqupYZ7jZQ9gRkmnzqf15tTUbZPjvJqCOkziD06YT7zMX1lpmgGmG/pub?gid=0&single=true&output=csv",
+    "version": "v3"
   }
 }
