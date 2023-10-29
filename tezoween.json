@@ -1,6 +1,6 @@
 {
   "title": "Tezoween",
-  "description": "Trick or treat event, it's Halloween on Tezos ... Be creepy !",
+  "description": "Trick or treat event, it's Halloween on Tezos ... One day only event. Price your works at 6.66 xtz : 1/1’s, collabs, limited edition or open editions. Halloween is the theme !",
   "tags": [
     "tezoween",
     "tezosween",
@@ -9,8 +9,8 @@
   ],
   "preview": true,
   "show_older": 7,
-  "start_time": "2023-10-30T00:00:00-0500",
-  "end_time": "2023-11-02T00:00:00-0800",
+  "start_time": "2023-10-30T12:00:00-0500",
+  "end_time": "2023-11-01T00:00:00-0800",
   "admins": [
     "pneumaninesix"
   ]
