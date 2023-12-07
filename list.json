@@ -1,5 +1,10 @@
 [
   {
+    "key": "girlsgang",
+    "indexed": true,
+    "title": "GirlsGang"
+  },
+  {
     "key": "screensavertez",
     "indexed": true,
     "title": "Screensavers"
@@ -28,11 +33,6 @@
     "key": "tezquakeaid",
     "indexed": true,
     "title": "TezQuakeAid Morocco"
-  },
-  {
-    "key": "girlsgang",
-    "indexed": true,
-    "title": "GirlsGang"
   },
   {
     "key": "tezmauiaid",
