@@ -7,6 +7,12 @@
   ],
   "preview": true,
   "show_older": 7,
+  "tokens": [
+    {
+      "fa2_id": "KT1PyaSuMPrPBZLwQTDw7Gvara6YA9gi4SHd",
+      "id": 4
+    }
+  ]
   "start_time": "2023-12-07T00:00:00+1000",
   "end_time": "2023-12-21T00:00:00-0800",
   "admins": [
