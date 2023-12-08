@@ -1,7 +1,7 @@
 [
   {
     "key": "tezpole",
-    "indexed": false,
+    "indexed": true,
     "title": "TezPole"
   },
   {
