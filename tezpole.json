@@ -1,0 +1,15 @@
+{
+  "title": "Tezpole",
+  "description": "Welcome to Miami Artbasel 2023!",
+  "tags": [
+    "tezpole",
+    "tezpoles"
+  ],
+  "preview": true,
+  "show_older": 7,
+  "start_time": "2023-12-07T00:00:00+1000",
+  "end_time": "2023-12-14T00:00:00-0800",
+  "admins": [
+    "VioletBondArt"
+  ]
+}
