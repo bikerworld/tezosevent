@@ -15,6 +15,10 @@
   "admins": [
     "kikanicolela"
   ],
+  "editions": {
+    "min": 10,
+    "skip_oe": false
+  },
   "extra": {
     "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vRzT6v-M4ZcsBM5XKd9q_RjvbM7dninvQZDWizopGflExfGG902BKMxrq_8c79hZ2JKKdVP86fKtC3f/pub?output=csv",
     "version": "v3"
