@@ -19,6 +19,7 @@
     "skip_oe": false
   },
   "anaverse": {
+    "eventName": "objkt4objkt",
     "location": "tezos/KT1KEa8z6vWXDJrVqtMrAeDVzsvxat3kHaCE/541859",
     "startDate": "2024-04-18T00:00:00+1000",
     "endDate": "2024-04-30T23:59:59-0800"
