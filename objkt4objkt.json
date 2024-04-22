@@ -8,7 +8,6 @@
   "barter": true,
   "preview": true,
   "skip_warnings": true,
-  "anaverse": "tezos/KT1KEa8z6vWXDJrVqtMrAeDVzsvxat3kHaCE/541859",
   "show_older": 7,
   "start_time": "2024-04-18T00:00:00+1000",
   "end_time": "2024-04-21T23:59:59-0800",
@@ -18,6 +17,11 @@
   "editions": {
     "min": 10,
     "skip_oe": false
+  },
+  "anaverse": {
+    "location": "tezos/KT1KEa8z6vWXDJrVqtMrAeDVzsvxat3kHaCE/541859",
+    "startDate": "2024-04-18T00:00:00+1000",
+    "endDate": "2024-04-21T23:59:59-0800"
   },
   "extra": {
     "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vRzT6v-M4ZcsBM5XKd9q_RjvbM7dninvQZDWizopGflExfGG902BKMxrq_8c79hZ2JKKdVP86fKtC3f/pub?output=csv",
