@@ -14,9 +14,14 @@
     "fxhash": false,
     "skip_oe": false
   },
-  "start_time": "2022-06-30T12:00:00Z",
-  "end_time": "2022-07-08T09:00:00Z",
+  "start_time": "2024-06-01T00:00:00+1000",
+  "end_time": "2024-06-10T23:59:59-0800",
   "admins": [],
+  "anaverse": {
+    "location": "tezos/KTxxx/ID",
+    "startDate": "2024-06-01T00:00:00+1000",
+    "endDate": "2024-06-10T23:59:59-0800"
+  },
   "extra": {
     "url": "",
     "version": "v3"
