@@ -1,0 +1,22 @@
+{
+  "title": "Anaver.se Integration",
+  "description": "A fake event to validate the anaver.se integration and provide galleries for each event. <b>You must add \"anaverse-gallery\" as a tag at mint time</b> when you mint your gallery. <br/>This event has an open gallery. Click on the \"Anaver.se\" button to enter it. <a href='https://twitter.com/anaglyph_ic/status/1779898728372932855' target='_blank'>Check this video tweet</a> to learn how to hang a piece.",
+  "tags": [
+    "anaverse-gallery"
+  ],
+  "barter": true,
+  "preview": true,
+  "skip_warnings": true,
+  "show_older": 7,
+  "start_time": "2024-05-01T00:00:00+1000",
+  "end_time": "2024-05-31T23:59:59-0800",
+  "admins": [
+    "anaglyph_ic"
+  ],
+  "anaverse": {
+    "eventName": "anaverse_integration",
+    "location": "tezos/KT1KEa8z6vWXDJrVqtMrAeDVzsvxat3kHaCE/541859",
+    "start_time": "2024-05-01T00:00:00+1000",
+    "end_time": "2024-05-31T23:59:59-0800"
+  }
+}
