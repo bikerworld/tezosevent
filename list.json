@@ -1,5 +1,10 @@
 [
   {
+    "key": "tezai",
+    "indexed": true,
+    "title": "TEZAI"
+  },
+  {
     "key": "objkt4objkt",
     "indexed": true,
     "title": "Objkt4Objkt (4th ed.)"

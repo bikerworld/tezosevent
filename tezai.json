@@ -1,0 +1,26 @@
+{
+  "title": "TEZAI",
+  "description": "Part of the DAMzine’s <b>DAM</b>AI project, <b>TEZ</b>AI is an open Tezos Event dedicated to generative AI art. Mint your AI art (no worries if you work with traditional media, nobody will notice!) between 14th and 17th June (PST), using the tag \"TEZAI\" or \"DAMAI\" at mint time to be included. Deepfake it till you deepmake it!<br/><a href=\"http://grebenshyo.xyz/project/damai/\">More about <b>DAM</b>AI here</a><br/>This event has an open gallery. Click on the \"Anaver.se\" button to enter it. <a href='https://twitter.com/anaglyph_ic/status/1779898728372932855' target='_blank'>Check this video tweet</a> to learn how to hang a piece.",
+  "tags": [
+    "damai",
+    "tezai"
+  ],
+  "preview": true,
+  "skip_warnings": true,
+  "show_older": 7,
+  "start_time": "2024-06-14T00:00:00-0700",
+  "end_time": "2024-06-17T23:59:59-0700",
+  "admins": [
+    "grebenshi"
+  ],
+  "anaverse": {
+    "eventName": "TEZAI",
+    "location": "tezos/KT1KEa8z6vWXDJrVqtMrAeDVzsvxat3kHaCE/541859",
+    "startDate": "2024-06-14T00:00:00-0700",
+    "endDate": "2024-06-17T23:59:59-0700"
+  },
+  "extra": {
+    "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vQOa0qodP-EqmiXlNbDm59AxUHHDTRhyecPS0z8GVy5oyGBHBkWVMl1ZfYT2HqLarjiP3lAUedCJSCj/pub?gid=0&single=true&output=csv",
+    "version": "v3"
+  }
+}
