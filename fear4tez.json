@@ -13,6 +13,12 @@
     "Tez_Town",
     "rblbab"
   ],
+  "anaverse": {
+    "eventName": "Fear4Tez",
+    "location": "tezos/KT1KEa8z6vWXDJrVqtMrAeDVzsvxat3kHaCE/428450",
+    "startDate": "2024-09-12T00:00:00+1000",
+    "endDate": "2024-09-16T00:00:00-0800"
+  },
   "extra": {
     "url": "https://docs.google.com/spreadsheets/d/1xmLH7MngERvNlYlj8FyAk-_H7cIWxjVajx2zCOudjfo/pub?gid=0&single=true&output=csv",
     "version": "v3"
