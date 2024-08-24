@@ -1,21 +1,20 @@
 {
   "title": "Fear4Tez",
-  "description": "TezTown is proud to present the 3nd Annual Friday the 13th Community Event - #FEAR4TEZ<br />Fear4Tez is all about the dark, scary and creepy side of art, humanity and life, but still meant to be fun, fun, fun!. Full infos for artists to <a href=\"https://twitter.com/Tez_Town/status/1712501933523587093\" target=\"_blank\">participate to this event are here</a>.<br/>Don't forget to use fear4tez tag at mint time to be visible here.",
+  "description": "TezTown is proud to present the 4th Annual Friday the 13th Community Event - #FEAR4TEZ<br />Fear4Tez is all about the dark, scary and creepy side of art, humanity and life, but still meant to be fun, fun, fun!. Full infos for artists to <a href=\"#\" target=\"_blank\">participate to this event are here</a>.<br/>Don't forget to use fear4tez tag at mint time to be visible here.",
   "tags": [
     "fear4tez",
     "fear4hen"
   ],
   "preview": true,
   "show_older": 7,
-  "start_time": "2023-10-13T00:00:00+1000",
-  "end_time": "2023-11-01T00:00:00-0800",
+  "start_time": "2024-09-12T00:00:00+1000",
+  "end_time": "2024-09-16T00:00:00-0800",
   "admins": [
     "Tez_Town",
-    "rblbab",
-    "MykNash"
+    "rblbab"
   ],
   "extra": {
-    "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vTiutXF9qbS5wTtHHJewixi8C5tqupYZ7jZQ9gRkmnzqf15tTUbZPjvJqCOkziD06YT7zMX1lpmgGmG/pub?gid=0&single=true&output=csv",
+    "url": "https://docs.google.com/spreadsheets/d/1xmLH7MngERvNlYlj8FyAk-_H7cIWxjVajx2zCOudjfo/pub?gid=0&single=true&output=csv",
     "version": "v3"
   }
 }
