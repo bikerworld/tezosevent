@@ -1,0 +1,19 @@
+{
+  "title": "Tezoween",
+  "description": "Tezoween is a community tezos event to celebrate Halloween<br />Mint regular or open editions at 3 $xtz. If you mint 1/1's, choose your own price. No need to burn your remaining supply at the end of the event, it's up to you!<br/>Don't forget to use tezoween tag at mint time to be visible here.",
+  "tags": [
+    "tezoween",
+    "tezosween",
+    "tezween",
+    "tezowen",
+    "tezoswen",
+    "tezwen"
+  ],
+  "preview": true,
+  "show_older": 7,
+  "start_time": "2024-10-29T00:00:00+1000",
+  "end_time": "2024-10-31T00:00:00-0800",
+  "admins": [
+    "pneumaninesix"
+  ]
+}
