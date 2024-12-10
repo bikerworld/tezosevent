@@ -1,0 +1,17 @@
+{
+  "title": "200tez",
+  "description": "Create a masterpiece, any media, any theme. Mint it on any Tezos plateform and list if for any combo of edition size and price that adds up to 200 XTZ. Don't overmint ! Max 3 pieces per artist.<br/><b>Tag your artwork with 200tez at mint time</b> to be included in the event page.",
+  "tags": [
+    "200tez",
+    "200xtz",
+    "200tz",
+    "200tezos"
+  ],
+  "preview": true,
+  "show_older": 7,
+  "start_time": "2024-12-11T00:00:00+1000",
+  "end_time": "2024-12-15T00:00:00-0800",
+  "admins": [
+    "kikanicolela"
+  ]
+}

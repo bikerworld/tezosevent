@@ -1,5 +1,10 @@
 [
   {
+    "key": "200tez",
+    "indexed": true,
+    "title": "200tez"
+  },
+  {
     "key": "tezoween",
     "indexed": true,
     "title": "Tezoween"
@@ -68,11 +73,6 @@
     "key": "aubjkt4aubjkt2",
     "indexed": true,
     "title": "Aubjkt4Aubjkt2"
-  },
-  {
-    "key": "200tezos",
-    "indexed": true,
-    "title": "200Tezos"
   },
   {
     "key": "bicycletez",
