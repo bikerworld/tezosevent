@@ -13,5 +13,9 @@
   "end_time": "2024-12-15T23:59:59-0800",
   "admins": [
     "kikanicolela"
-  ]
+  ],
+  "extra": {
+    "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vQkrZSLLP2KnVfibnOkHZkQeJUID52fWpLFEInhT62jddym93TN9gHpKNUV_3XF6WUvzqvm1QgnP5Yv/pub?gid=0&single=true&output=csv",
+    "version": "v3"
+  }
 }
