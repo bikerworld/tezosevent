@@ -1,23 +1,18 @@
 {
   "title": "OpenTez",
-  "description": "OpenTez is the first Open Edition art exchange event. Mint an OpenEdition with a price of 3 tez (so no need to burn at the end, and you can set a limit of editions per wallet). Use the tag \"opentez\" at mint time, to be visible in the event page.",
+  "description": "OpenTez is a 24h Open Edition art exchange event. Mint an Open Edition on objkt.com with a price of 0.3 tez or any price – your art, your rules. Use the tag \"opentez\" at mint time, to be visible in the event page.",
   "tags": [
     "opentez",
     "tezopen",
     "open_tez"
   ],
   "preview": true,
-  "show_older": 7,
-  "start_time": "2023-07-14T00:00:00+1000",
-  "end_time": "2023-07-16T00:00:00-0800",
-  "tokens": [
-    {
-      "fa2_id": "KT1EN8BLRfZBM8dhi1wRbe9aTLtYzAbPf6VH",
-      "id": 1
-    }
-  ],
+  "show_older": 3,
+  "start_time": "2024-01-14T00:00:00+1000",
+  "end_time": "2024-01-15T00:00:00-0800",
   "admins": [
-    "sereneObscurity",
-    "BarbaraBezina"
+    "GabrielNebular",
+    "DDO__xyz",
+    "kikanicolela"
   ]
 }

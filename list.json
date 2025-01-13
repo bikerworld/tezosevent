@@ -1,5 +1,10 @@
 [
   {
+    "key": "opentez",
+    "indexed": true,
+    "title": "OpenTez"
+  },
+  {
     "key": "200tez",
     "indexed": true,
     "title": "200tez"
@@ -63,11 +68,6 @@
     "key": "tezmauiaid",
     "indexed": true,
     "title": "TezMauiAid"
-  },
-  {
-    "key": "opentez",
-    "indexed": true,
-    "title": "OpenTez"
   },
   {
     "key": "aubjkt4aubjkt2",
