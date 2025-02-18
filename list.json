@@ -1,5 +1,10 @@
 [
   {
+    "key": "laayuda",
+    "indexed": true,
+    "title": "LAayuda"
+  },
+  {
     "key": "opentez",
     "indexed": true,
     "title": "OpenTez"
