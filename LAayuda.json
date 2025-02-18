@@ -1,0 +1,21 @@
+{
+  "title": "LAayuda",
+  "description": "A fundraiser supporting vulnerable communities affected by the fires in Los Angeles County. To participate, mint an open edition with a duration of up to 7 days, and add LA AYDA benefit wallet to your primary collector split when setting the Open Edition price (choose a donation percentage that works for you).<br/>Make sure to use <b>LAayuda</b> tag at mint time and to <b>redirect proceeds to the donation wallet</b> to be visible in this event page.",
+  "tags": [
+    "LAayuda",
+    "LAyuda"
+  ],
+  "hide_secondary": true,
+  "donation": [
+    "tz1TkP6BPGjAYw3bkH4HLyDRULqqdJ82mgRW"
+  ],
+  "preview": true,
+  "show_older": 7,
+  "start_time": "2025-02-18T00:00:00+1000",
+  "end_time": "2025-02-23T00:00:00-0800",
+  "min_donation": 5,
+  "admins": [
+    "kikanicolela",
+    "objktcom"
+  ]
+}
