@@ -22,7 +22,8 @@
     "eventName": "objkt4objkt",
     "location": "tezos/KT1KEa8z6vWXDJrVqtMrAeDVzsvxat3kHaCE/541859",
     "startDate": "2025-05-12T00:00:00+1000",
-    "endDate": "2025-05-18T23:59:59-0800"
+    "endDate": "2025-05-18T23:59:59-0800",
+    "eventAdminPassword": ""
   },
   "extra": {
     "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vRzT6v-M4ZcsBM5XKd9q_RjvbM7dninvQZDWizopGflExfGG902BKMxrq_8c79hZ2JKKdVP86fKtC3f/pub?output=csv",
