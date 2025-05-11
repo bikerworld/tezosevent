@@ -10,7 +10,7 @@
   "skip_warnings": true,
   "show_older": 3,
   "start_time": "2025-05-12T00:00:00+1000",
-  "end_time": "2025-05-18T00:00:00-0800",
+  "end_time": "2025-05-18T23:59:59-0800",
   "admins": [
     "kikanicolela"
   ],
