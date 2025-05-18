@@ -9,7 +9,7 @@
   "skip_warnings": true,
   "show_older": 7,
   "start_time": "2024-05-01T00:00:00+1000",
-  "end_time": "2024-05-31T23:59:59-0800",
+  "end_time": "2024-05-31T23:59:59-0700",
   "admins": [
     "anaglyph_ic"
   ],
@@ -17,6 +17,6 @@
     "eventName": "anaverse_integration",
     "location": "tezos/KT1KEa8z6vWXDJrVqtMrAeDVzsvxat3kHaCE/541859",
     "start_time": "2024-05-01T00:00:00+1000",
-    "end_time": "2024-05-31T23:59:59-0800"
+    "end_time": "2024-05-31T23:59:59-0700"
   }
 }

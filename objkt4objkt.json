@@ -11,7 +11,7 @@
   "skip_warnings": true,
   "show_older": 3,
   "start_time": "2025-05-12T00:00:00+1000",
-  "end_time": "2025-05-18T23:59:59-0800",
+  "end_time": "2025-05-18T23:59:59-0700",
   "admins": [
     "kikanicolela"
   ],
@@ -23,7 +23,7 @@
     "eventName": "objkt4objkt",
     "location": "tezos/KT1KEa8z6vWXDJrVqtMrAeDVzsvxat3kHaCE/541859",
     "startDate": "2025-05-12T00:00:00+1000",
-    "endDate": "2025-05-18T23:59:59-0800",
+    "endDate": "2025-05-18T23:59:59-0700",
     "eventAdminPassword": ""
   },
   "extra": {
