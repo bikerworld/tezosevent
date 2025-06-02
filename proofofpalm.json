@@ -10,7 +10,7 @@
   "skip_warnings": true,
   "show_older": 7,
   "start_time": "2025-05-24T00:00:00+1000",
-  "end_time": "2025-06-01T23:59:59-0700",
+  "end_time": "2025-06-01T23:59:59-1200",
   "admins": [
     "absurdeity"
   ]
