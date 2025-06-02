@@ -13,9 +13,5 @@
   "end_time": "2025-06-01T23:59:59-0700",
   "admins": [
     "absurdeity"
-  ],
-  "editions": {
-    "min": 1,
-    "skip_oe": false
-  }
+  ]
 }
