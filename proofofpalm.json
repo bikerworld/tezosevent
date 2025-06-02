@@ -1,0 +1,21 @@
+{
+  "title": "Proof of Palm",
+  "description": "\"People love palm trees! You wanna make a work of art that sells? Put out a palm tree and see what happens.\" (Artist Journal 428 12:56) 🌴. To be included in this event page, create palm tree themed art <b>and add \"proofofpalm\" as a tag at mint time</b>.",
+  "tags": [
+    "proofofpalm",
+    "profofpalm"
+  ],
+  "barter": true,
+  "preview": true,
+  "skip_warnings": true,
+  "show_older": 3,
+  "start_time": "2025-05-24T00:00:00+1000",
+  "end_time": "2025-06-01T23:59:59-0700",
+  "admins": [
+    "absurdeity"
+  ],
+  "editions": {
+    "min": 1,
+    "skip_oe": false
+  }
+}
