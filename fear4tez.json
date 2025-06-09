@@ -16,6 +16,7 @@
     "eventName": "Fear4Tez",
     "location": "tezos/KT1KEa8z6vWXDJrVqtMrAeDVzsvxat3kHaCE/428450",
     "startDate": "2025-06-12T00:00:00+1000",
-    "endDate": "2025-06-16T00:00:00-0700"
+    "endDate": "2025-06-16T00:00:00-0700",
+    "eventAdminPassword": ""
   }
 }
