@@ -1,5 +1,15 @@
 [
   {
+    "key": "reflectez",
+    "indexed": true,
+    "title": "Reflectez"
+  },
+  {
+    "key": "fear4tez",
+    "indexed": true,
+    "title": "Fear4Tez"
+  },
+  {
     "key": "proofofpalm",
     "indexed": true,
     "title": "Proof of Palm"
@@ -8,11 +18,6 @@
     "key": "objkt4objkt",
     "indexed": true,
     "title": "Objkt4Objkt 2025"
-  },
-  {
-    "key": "laayuda",
-    "indexed": true,
-    "title": "LAayuda"
   },
   {
     "key": "opentez",
@@ -28,11 +33,6 @@
     "key": "tezoween",
     "indexed": true,
     "title": "Tezoween"
-  },
-  {
-    "key": "fear4tez",
-    "indexed": true,
-    "title": "Fear4Tez"
   },
   {
     "tag": "gifday2024",
@@ -100,18 +100,23 @@
     "title": "Camp Creme"
   },
   {
-    "key": "tezquakeaid1",
-    "indexed": true,
-    "title": "TezQuakeAid Syria/Turkey"
-  },
-  {
     "key": "riphen",
     "indexed": true,
     "title": "RIPHen"
   },
   {
+    "key": "laayuda",
+    "indexed": false,
+    "title": "LAayuda"
+  },
+  {
+    "key": "tezquakeaid1",
+    "indexed": false,
+    "title": "TezQuakeAid Syria/Turkey"
+  },
+  {
     "key": "darktez",
-    "indexed": true,
+    "indexed": false,
     "title": "Darktez"
   },
   {
@@ -163,5 +168,35 @@
     "key": "xcollabz",
     "indexed": false,
     "title": "XCollabz Curation"
+  },
+  {
+    "key": "fear4hen",
+    "indexed": false,
+    "title": "Fear4hen"
+  },
+  {
+    "key": "fear4tez2",
+    "indexed": false,
+    "title": "Fear4tez 2"
+  },
+  {
+    "key": "fear4tez3",
+    "indexed": false,
+    "title": "Fear4tez"
+  },
+  {
+    "key": "fear4tez4",
+    "indexed": false,
+    "title": "Fear4tez"
+  },
+  {
+    "key": "tezos4tezos",
+    "indexed": false,
+    "title": "tezos4tezos"
+  },
+  {
+    "key": "outofthisworld",
+    "indexed": false,
+    "title": "Out of this World"
   }
 ]

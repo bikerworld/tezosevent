@@ -1,26 +1,21 @@
 {
   "title": "Fear4Tez",
-  "description": "TezTown is proud to present the 4th Annual Friday the 13th Community Event - #FEAR4TEZ<br />Fear4Tez is all about the dark, scary and creepy side of art, humanity and life, but still meant to be fun, fun, fun!. Full infos for artists to <a href=\"https://x.com/Tez_Town/status/1823388021724430811\" target=\"_blank\">participate to this event are here</a>.<br/>Don't forget to use fear4tez tag at mint time to be visible here.",
+  "description": "Fore the fifth time, Tewos is celebrating <b>Friday the 13th</b> with all the scary, creepy, weird, dark and shocking things that go bump in the night and make you scream. Join us if you dare! Mint 1, 13, or 113 editions and use  \"fear4tez\" tag at mint time to be visible here.",
   "tags": [
     "fear4tez",
     "fear4hen"
   ],
   "preview": true,
   "show_older": 7,
-  "start_time": "2024-09-12T00:00:00+1000",
-  "end_time": "2024-09-16T00:00:00-0700",
+  "start_time": "2025-06-12T00:00:00+1000",
+  "end_time": "2025-06-16T00:00:00-0700",
   "admins": [
-    "Tez_Town",
     "rblbab"
   ],
   "anaverse": {
     "eventName": "Fear4Tez",
     "location": "tezos/KT1KEa8z6vWXDJrVqtMrAeDVzsvxat3kHaCE/428450",
-    "startDate": "2024-09-12T00:00:00+1000",
-    "endDate": "2024-09-16T00:00:00-0700"
-  },
-  "extra": {
-    "url": "https://docs.google.com/spreadsheets/d/1xmLH7MngERvNlYlj8FyAk-_H7cIWxjVajx2zCOudjfo/pub?gid=0&single=true&output=csv",
-    "version": "v3"
+    "startDate": "2025-06-12T00:00:00+1000",
+    "endDate": "2025-06-16T00:00:00-0700"
   }
 }
