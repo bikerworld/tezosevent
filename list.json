@@ -5,6 +5,11 @@
     "title": "Reflectez"
   },
   {
+    "key": "gifday",
+    "indexed": true,
+    "title": "GifDay"
+  },
+  {
     "key": "fear4tez",
     "indexed": true,
     "title": "Fear4Tez"
