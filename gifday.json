@@ -1,8 +1,10 @@
 {
   "title": "GifDay",
-  "description": "15th June, Gif becomes 38 years old. Let celebrate : mint your best gif. To be included in this event page, <b>you must add \"gifday\" as a tag at mint time</b>.",
+  "description": "15th June, Gif becomes 38 years old. Let celebrate : mint your best gif. To be included in this event page, <b>you must add \"GifArtDay\" as a tag at mint time</b>.",
   "tags": [
     "gifday",
+    "gifartday",
+    "gifart_day",
     "gif_day"
   ],
   "barter": false,
