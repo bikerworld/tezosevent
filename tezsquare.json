@@ -1,0 +1,18 @@
+{
+  "title": "TEZSQUARE",
+  "description": "Mint your art square format (any tez marketplace), min. suggested price 4ꜩ (OE and large editions). To be included in this event page, <b>you must add \"tezsquare\" as a tag at mint time</b>.",
+  "tags": [
+    "tezsquare",
+    "tez_square",
+    "tezsquarre"
+  ],
+  "barter": false,
+  "preview": true,
+  "skip_warnings": true,
+  "show_older": 5,
+  "start_time": "2025-07-15T00:00:00+1000",
+  "end_time": "2025-07-18T23:59:59-0700",
+  "admins": [
+    "GabrielNebular"
+  ]
+}

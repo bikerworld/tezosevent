@@ -1,5 +1,10 @@
 [
   {
+    "key": "tezsquare",
+    "indexed": true,
+    "title": "TEZSQUARE"
+  },
+  {
     "key": "reflectez",
     "indexed": true,
     "title": "Reflectez"
