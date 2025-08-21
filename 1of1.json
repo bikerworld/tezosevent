@@ -1,16 +1,21 @@
 {
-  "title": "One of One",
-  "description": "<div id=\"floating\"><div style=\"display:block;float:left;margin-right:20px\"><img src=\"/images/oneofone.png\" alt=\"One of One\" style=\"height:175px;align:center\"></div><p style=\"min-with:300px\">1st July is the start of something big: <b>#1of1 season on Tezos</b><br>Time to change the landscape.<br>Mint Period now Closed.<br>Please see <a href=\"https://twitter.com/1of1xtz\" target=\"_blank\">@1of1xtz</a> for Galleries now Showcasing #1of1 Event Works, some Unsold Works Only</p></div>",
-  "tags": ["1of1", "oneofone", "1of1tez", "1of1tez", "1ofone"],
+  "title": "1of1 Season",
+  "description": "This is time for a huge 1/1 event party on TEZ! Mint only 1/1, 3 max per artist. Color theme is Midnight Blue. Setup an auction with a starting price between 30 & 70 xtz.<br/><b>Add \"1of1SZN\" as a tag at mint time</b> to be visible here.",
+  "tags": [
+    "1of1SZN",
+    "1of1",
+    "1of1tez"
+  ],
   "preview": true,
-  "show_older": 8,
+  "show_older": 7,
   "english": true,
-  "editions": { "min": 1, "max": 1 },
-  "start_time": "2022-06-30T12:00:00Z",
-  "end_time": "2022-07-08T09:00:00Z",
-  "admins": ["1of1xtz"],
-  "extra": {
-    "version": "v3",
-    "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vTZcns56bWHTOpAT98YCkCSsSLe6kRweVwoonPhAPWUIWBKYbiPEOLWyY7ZNkEWlDx9a9gtVfB1BOJY/pub?gid=0&single=true&output=csv"
-  }
+  "editions": {
+    "min": 1,
+    "max": 1
+  },
+  "start_time": "2025-08-25T00:00:00+1000",
+  "end_time": "2025-08-31T23:59:59-0700",
+  "admins": [
+    "mamaralic"
+  ]
 }

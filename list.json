@@ -5,6 +5,11 @@
     "title": "PerspecTez"
   },
   {
+    "key": "1of1.json",
+    "indexed": true,
+    "title": "1of1 Season"
+  },
+  {
     "key": "short_video_loops",
     "indexed": true,
     "title": "Short Video Loops"
@@ -163,11 +168,6 @@
     "key": "tezrats",
     "indexed": false,
     "title": "TezRats"
-  },
-  {
-    "key": "1of1",
-    "indexed": false,
-    "title": "One of One"
   },
   {
     "key": "aubjkt4aubjkt",
