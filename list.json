@@ -5,6 +5,11 @@
     "title": "PerspecTez"
   },
   {
+    "key": "short_video_loops",
+    "indexed": false,
+    "title": "Short Video Loops"
+  },
+  {
     "key": "tezsquare",
     "indexed": true,
     "title": "TEZSQUARE"
