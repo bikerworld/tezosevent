@@ -9,5 +9,12 @@
   ],
   "admins": [
     "anaglyph_ic"
-  ]
+  ],
+  "anaverse": {
+    "eventName": "Short Video Loops",
+    "location": "tezos/KT1KEa8z6vWXDJrVqtMrAeDVzsvxat3kHaCE/541987",
+    "startDate": "2025-08-20T00:00:00+1000",
+    "endDate": "2025-10-30T23:59:59-0700",
+    "eventAdminPassword": ""
+  }
 }

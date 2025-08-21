@@ -6,7 +6,7 @@
   },
   {
     "key": "short_video_loops",
-    "indexed": false,
+    "indexed": true,
     "title": "Short Video Loops"
   },
   {
