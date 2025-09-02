@@ -1,5 +1,10 @@
 [
   {
+    "key": "gifday25",
+    "indexed": true,
+    "title": "GifDay 2025"
+  },
+  {
     "key": "perspectez",
     "indexed": true,
     "title": "PerspecTez"
@@ -23,11 +28,6 @@
     "key": "reflectez",
     "indexed": true,
     "title": "Reflectez"
-  },
-  {
-    "key": "gifday",
-    "indexed": true,
-    "title": "GifArtDay"
   },
   {
     "key": "fear4tez",

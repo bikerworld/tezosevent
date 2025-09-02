@@ -1,0 +1,20 @@
+{
+  "title": "GifDay 2025",
+  "description": "to participate to this community event, mint your GIF on any Tezos platform, either OE, 1/1 or edition of 100, with a referral fee 15%. To be visible in this event page, <b>you must add \"GifDay2025\" as a tag at mint time</b>.",
+  "tags": [
+    "gifday",
+    "gifday2025",
+    "gifday25",
+    "gif_day"
+  ],
+  "barter": false,
+  "preview": true,
+  "skip_warnings": true,
+  "show_older": 5,
+  "start_time": "2025-09-05T00:00:00+1000",
+  "end_time": "2025-09-07T23:59:59-0700",
+  "admins": [
+    "objktcom",
+    "kikanicolela"
+  ]
+}
