@@ -2,8 +2,8 @@
   "title": "TEZAI",
   "description": "Part of the DAMzine’s <b>DAM</b>AI project, <b>TEZ</b>AI is an open Tezos Event dedicated to generative AI art. Mint your AI art (no worries if you work with traditional media, nobody will notice!) between 14th and 17th June (PST), using the tag \"TEZAI\" or \"DAMAI\" at mint time to be included. Deepfake it till you deepmake it!<br/><a href=\"http://grebenshyo.xyz/project/damai/\">More about <b>DAM</b>AI here</a>.",
   "tags": [
-    "damai",
-    "tezai"
+    "tezai",
+    "damai"
   ],
   "preview": true,
   "skip_warnings": true,
