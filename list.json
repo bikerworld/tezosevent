@@ -60,11 +60,6 @@
     "title": "Tezoween"
   },
   {
-    "tag": "gifday2024",
-    "indexed": true,
-    "title": "GifDay 2024"
-  },
-  {
     "key": "tezai",
     "indexed": false,
     "title": "TEZAI"
@@ -91,7 +86,7 @@
   },
   {
     "key": "womenverse",
-    "indexed": true,
+    "indexed": false,
     "title": "WomenVerse"
   },
   {
@@ -118,11 +113,6 @@
     "key": "tezospride23",
     "indexed": false,
     "title": "Tezos Pride 2023"
-  },
-  {
-    "tag": "campcreme",
-    "indexed": true,
-    "title": "Camp Creme"
   },
   {
     "key": "riphen",
