@@ -1,5 +1,10 @@
 [
   {
+    "key": "graintez",
+    "indexed": true,
+    "title": "Graintez"
+  },
+  {
     "key": "gifday25",
     "indexed": true,
     "title": "GifDay 2025"

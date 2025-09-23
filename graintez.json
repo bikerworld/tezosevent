@@ -1,0 +1,18 @@
+{
+  "title": "Graintez",
+  "description": "To participate to this event, mint your art on any Tezos platform: any price, theme, medium, format... but keep it GRAINY ! To be visible in this event page, <b>you must add \"graintez\" as a tag at mint time</b>.",
+  "tags": [
+    "graintez",
+    "grainxtz"
+  ],
+  "barter": false,
+  "preview": true,
+  "skip_warnings": true,
+  "show_older": 5,
+  "start_time": "2025-10-07T00:00:00+1000",
+  "end_time": "2025-10-14T23:59:59-0700",
+  "admins": [
+    "coralinesaidso",
+    "CinziaGabrielPH"
+  ]
+}
