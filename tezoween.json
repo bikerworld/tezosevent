@@ -1,6 +1,6 @@
 {
   "title": "Tezoween",
-  "description": "Trick or treat event, it's Halloween on Tezos ... Price your regular or open editions works at 3 xtz (If you mint 1/1s, price it as you want). Halloween is the theme !<br/>Don't forget to use the tag <b>tezoween</b> at mint time to be visible in this page.",
+  "description": "This is the 3rd Annual #Tezoween on Tezos ... Get that spooky art ready ! Price your editions at 6.66 xtz each, or any price you want for your 1/1's. Trick or treat event 🎃 !<br/>Don't forget to use the tag <b>tezoween</b> at mint time to be visible in this page.",
   "tags": [
     "tezoween",
     "tezosween",
@@ -10,9 +10,9 @@
     "tezwen"
   ],
   "preview": true,
-  "show_older": 7,
-  "start_time": "2024-10-29T00:00:00+1000",
-  "end_time": "2024-11-01T00:00:00-0700",
+  "show_older": 5,
+  "start_time": "2025-10-28T00:00:00+1000",
+  "end_time": "2025-11-01T00:00:00-0700",
   "admins": [
     "pneumaninesix"
   ]

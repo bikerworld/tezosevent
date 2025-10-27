@@ -5,6 +5,11 @@
     "title": "1of1 Season"
   },
   {
+    "key": "tezoween",
+    "indexed": true,
+    "title": "Tezoween"
+  },
+  {
     "key": "graintez",
     "indexed": true,
     "title": "Graintez"
@@ -58,11 +63,6 @@
     "key": "200tez",
     "indexed": true,
     "title": "200tez"
-  },
-  {
-    "key": "tezoween",
-    "indexed": true,
-    "title": "Tezoween"
   },
   {
     "key": "tezai",
