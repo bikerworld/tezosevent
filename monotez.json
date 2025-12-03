@@ -1,0 +1,22 @@
+{
+  "title": "Monotez",
+  "description": "A community event in black and white ! All medium are welcome.<br/><b>Add \"monotez\" as a tag at mint time</b> to be visible here.",
+  "tags": [
+    "monotez",
+    "monotezos",
+    "monoxtz"
+  ],
+  "preview": true,
+  "show_older": 7,
+  "english": true,
+  "editions": {
+    "min": 1,
+    "max": 1
+  },
+  "start_time": "2025-12-02T00:00:00+1000",
+  "end_time": "2025-12-09T23:59:59-0700",
+  "admins": [
+    "CinziaGabrielPH",
+    "coralinesaidso"
+  ]
+}
