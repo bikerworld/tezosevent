@@ -8,11 +8,6 @@
   ],
   "preview": true,
   "show_older": 7,
-  "english": true,
-  "editions": {
-    "min": 1,
-    "max": 1
-  },
   "start_time": "2025-12-02T00:00:00+1000",
   "end_time": "2025-12-09T23:59:59-0700",
   "admins": [
