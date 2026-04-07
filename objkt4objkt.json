@@ -26,5 +26,9 @@
     "startDate": "2026-04-07T00:00:00+1000",
     "endDate": "2026-04-12T23:59:59-0700",
     "eventAdminPassword": ""
+  },
+  "extra": {
+    "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vQUDt02O9wYQevmJgREOuHxp3NYngfcFSdEA_a17XHvhvW4qeKjzXqNf2n6-vABoxZDAZaycyn3Fkl7/pub?gid=0&single=true&output=csv",
+    "version": "v3"
   }
 }
