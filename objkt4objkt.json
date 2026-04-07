@@ -16,6 +16,7 @@
   "admins": [
     "kikanicolela"
   ],
+  "max_per_artist": 5,
   "editions": {
     "min": 10,
     "skip_oe": false
