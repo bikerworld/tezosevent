@@ -170,9 +170,24 @@
     "title": "TezRats"
   },
   {
+    "key": "objkt4objkt03",
+    "indexed": true,
+    "title": "Objkt4Objkt 3 - September 2021"
+  },
+  {
+    "key": "objkt4objkt02",
+    "indexed": true,
+    "title": "Objkt4Objkt 2 - Avril 2021"
+  },
+  {
     "key": "aubjkt4aubjkt",
     "indexed": true,
     "title": "Aubjkt4Aubjkt"
+  },
+  {
+    "key": "objkt4objkt01",
+    "indexed": true,
+    "title": "Objkt4Objkt - Mars 2021"
   },
   {
     "key": "tezospride",

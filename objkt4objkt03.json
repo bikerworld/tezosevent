@@ -1,0 +1,18 @@
+{
+  "title": "Objkt4Objkt",
+  "description": "The third Objkt4Objkt event, run from September 1 to September 14, 2021.",
+  "tags": [
+    "objkt4objkt",
+    "objkt4objkt3",
+    "objk4objkt"
+  ],
+  "preview": false,
+  "skip_warnings": true,
+  "show_older": 0,
+  "start_time": "2021-09-01T00:00:00+1000",
+  "end_time": "2021-09-14T23:59:59-0700",
+  "editions": {
+    "min": 10,
+    "skip_oe": false
+  }
+}

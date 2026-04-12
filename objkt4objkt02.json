@@ -1,0 +1,18 @@
+{
+  "title": "Objkt4Objkt",
+  "description": "The second Objkt4Objkt event, run from April 22 to April 30, 2021.",
+  "tags": [
+    "objkt4objkt",
+    "objkt4objkt2",
+    "objk4objkt"
+  ],
+  "preview": false,
+  "skip_warnings": true,
+  "show_older": 0,
+  "start_time": "2021-04-22T00:00:00+1000",
+  "end_time": "2021-04-30T23:59:59-0700",
+  "editions": {
+    "min": 10,
+    "skip_oe": false
+  }
+}
