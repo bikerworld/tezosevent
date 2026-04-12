@@ -155,9 +155,9 @@
     "title": "Darktez"
   },
   {
-    "key": "objkt4objkt04",
+    "key": "tezos4tezos",
     "indexed": true,
-    "title": "Objkt4Objkt - 2022"
+    "title": "tezos4tezos"
   },
   {
     "key": "utrtez",
@@ -238,11 +238,6 @@
     "key": "fear4tez4",
     "indexed": false,
     "title": "Fear4tez"
-  },
-  {
-    "key": "tezos4tezos",
-    "indexed": false,
-    "title": "tezos4tezos"
   },
   {
     "key": "outofthisworld",
