@@ -6,6 +6,7 @@
   ],
   "preview": false,
   "skip_warnings": true,
+  "skip_secondary": false,
   "show_older": 0,
   "start_time": "2021-03-26T00:00:00+1000",
   "end_time": "2021-03-28T23:59:59-0700",
