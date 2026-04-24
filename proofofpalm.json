@@ -1,16 +1,17 @@
 {
-  "title": "Proof of Palm",
-  "description": "\"People love palm trees! You wanna make a work of art that sells? Put out a palm tree and see what happens.\" (Artist Journal 428 12:56) 🌴. To be included in this event page, create palm tree themed art <b>and add \"proofofpalm\" as a tag at mint time</b>.",
+  "title": "Proof of Palm 2026",
+  "description": "\"People love palm trees! You wanna make a work of art that sells? Put out a palm tree and see what happens.\" (Adrian Pocobelli, Artist Journal 428 12:56) 🌴🌴🌴. For participating, create palm tree themed art, any number of editions at any price, <b>and add \"proofofpalm\" and \"proofofpalm2026\" as a tag at mint time</b> to be included in the event page.",
   "tags": [
     "proofofpalm",
-    "profofpalm"
+    "proofofpalm2026",
+    "proofofpalm26"
   ],
   "barter": false,
   "preview": true,
   "skip_warnings": true,
   "show_older": 7,
-  "start_time": "2025-05-24T00:00:00+1000",
-  "end_time": "2025-06-01T23:59:59-1200",
+  "start_time": "2026-05-23T00:00:00+1000",
+  "end_time": "2026-05-31T23:59:59-0700",
   "admins": [
     "absurdeity"
   ]
