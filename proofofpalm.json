@@ -9,7 +9,7 @@
   "barter": false,
   "preview": true,
   "skip_warnings": true,
-  "show_older": 7,
+  "show_older": 30,
   "start_time": "2026-05-23T00:00:00+1000",
   "end_time": "2026-05-31T23:59:59-0700",
   "admins": [
